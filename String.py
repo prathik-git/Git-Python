@@ -1,1 +1,1 @@
-print(r'c:\docs\navin')
+print("Navin's Laptop")

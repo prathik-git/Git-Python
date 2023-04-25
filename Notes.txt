@@ -1,0 +1,8 @@
+1. print(r '\n') means print as it is.
+2. _ (underscore represents) result  of last.
+3. name[-1] last digit of array 
+4. name[-2] last but digit of array
+5. name[0:2] if name = ajit it will print 'aj'
+6. name[0:3] if name = ajit it will print 'aji'
+7. len(name) it will print 4(length of the ajit)
+8. if a = ajit   a[1:3] - when you print this it will give "ji" not "jit" because indexing excludes the last letter
