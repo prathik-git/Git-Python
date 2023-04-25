@@ -1,5 +1,5 @@
-1. print(r '\n') means print as it is.
-2. _ (underscore represents) result  of last.
+1. print(r '\n') where r mean raw string
+2. _ (underscore represents) result of last equation.
 3. name[-1] last digit of array 
 4. name[-2] last but digit of array
 5. name[0:2] if name = ajit it will print 'aj'
