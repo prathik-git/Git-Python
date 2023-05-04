@@ -41,3 +41,18 @@ Sets:-
 - Set uses the concept of Hash. Hash is used to improve the performance as it fetches the values as fast as possible.
 - Indexing is not supported in sets as it does not follow sequencing.
 - Values can not be changed in a set also because index value is not supported.
+
+#5
+Data Types:-
+- None
+- Numeric [int, float, complex, bool ]
+- Sequence [Lists, Tuple, Set, String, Range]
+- Dictionary
+
+#6
+Operators:-
+Arithmetic
+Assignment
+Relational
+Logical 
+Unary
